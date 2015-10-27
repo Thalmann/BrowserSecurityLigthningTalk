@@ -1,0 +1,8 @@
+* Intro
+** Talk about how you better can control your data when using a browser
+* The browser
+** When you access a website the browser requests all the content 
+** So it can show you the content - this is because the browser just loves getting content back ;-)
+* The bad content
+** Maybe some malicious javascript
+** Click on it and you die.. basically
