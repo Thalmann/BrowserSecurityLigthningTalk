@@ -6,5 +6,7 @@
 * The bad content
 ** Maybe some malicious javascript
 ** Click on it and you die.. basically
-* ScriptBlock
-** Demonstration of ScriptBlock on a site -- MAYBE no time
+* Attacks
+** 
+* Present tools
+* Show tools
