@@ -1,4 +1,4 @@
-# If you want to see the talk:
+# If you want to see the presentation:
 1. Download zip
 2. Open index.html
 
